@@ -1,0 +1,47 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Kristin Privitera-Johnson"
+email: "kpjohns@uw.edu"
+date: "17 March 2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+- California, USA
+- Karaage curry
+- Ocean sunfish (*Mola mola*)
+
+## About me | Academic
+
+- Bachelors of Science, California State University, Long Beach
+- Marine Biology and minor in Geography
+
+## About me | Things I've missed during the pandemic
+
+1) Visiting my family in CA
+2) Lee Qi
+3) Fridays at Fremont brewing
+
+# Data science
+
+## Course topics | 3 things I enjoyed learning about
+
+1) I enjoyed learning about how to make slide decks using `R Markdown` (time to update 552/553 slides)
+2) I enjoyed learning about how to make webpages using `R Markdown`
+3) I enjoyed learning about how to use GitHub and git with peers and well designed assignments vs. trying to motivate myself to read random websites on the internet
+
+## Course topics | 3 things I'd like to learn more about
+
+1) `xaringan` for making slide decks (I think)
+2) `tidyverse` for both personal work and teaching
+3) how to get Andre to use GitHub instead of sending me vaguescript.R
+
+## {data-background=mola3.jpg data-background-size=cover}
